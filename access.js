@@ -1,1 +1,2 @@
-document.write("Профессор Ефимов сказал: \"Запомните! Мелочи не имеют решающего значения – они решают все\".");
+document.write("<noscript><img height="1" width="1" style=\"display:none\"
+  src=\"\/\" /></noscript>");
